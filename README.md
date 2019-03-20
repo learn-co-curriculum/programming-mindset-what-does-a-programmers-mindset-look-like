@@ -85,12 +85,12 @@ your mental models you've made the poorest investment possible.
 ## Respect the Problem
 
 Lastly, and perhaps the most important, guideline: respect the problem.
-Sometimes the problem seems simple, but when you delve into it's actually very
+Sometimes the problem seems simple, but when you dig into it's really more
 complicated. Be honest with yourself, and peers, bosses and collaborators and
 own up to having misjudged the size of the problem.
 
 Sometimes the problem's interconnected to other parts of the system in
-surprising ways. Sometimes they's a hidden snarl of complicated code you
+surprising ways. Sometimes there's a hidden snarl of complex code you
 didn't expect to find. Perhaps the code depends on mathematics or business
 knowledge you don't have that you need to learn more about.
 
